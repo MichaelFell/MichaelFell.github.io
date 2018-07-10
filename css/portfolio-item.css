@@ -18,11 +18,22 @@ body {
   }
 }
 
+.illuIcon{
+	height:3em;
+	width: 3em;
+	object-fit: cover;
+	justify-content: left;
+}
+
 .topBar{
 	background-color: white;
 	-moz-box-shadow:   	0px 0px 10px 0px #ccc;
   	-webkit-box-shadow: 0px 0px 10px 0px #ccc;
   	box-shadow:         0px 0px 10px 0px #ccc;
+}
+
+.container{
+
 }
 
 h1{
