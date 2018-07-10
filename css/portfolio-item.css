@@ -22,7 +22,13 @@ body {
 	height:3em;
 	width: 3em;
 	object-fit: cover;
-	justify-content: left;
+	float: left;
+}
+
+.illuHomeIcon{
+	height:3em;
+	width: 3em;
+	object-fit: cover;
 }
 
 .topBar{
@@ -32,14 +38,12 @@ body {
   	box-shadow:         0px 0px 10px 0px #ccc;
 }
 
-.container{
-
-}
-
 h1{
 	font-family: TungstenRounded;
 	font-size:2em;
 	color: #81c4ac;
+	padding-left: 0.5em;
+	float: left;
 }
 
 h2{
