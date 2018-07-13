@@ -122,3 +122,22 @@ h1{
 	background: url("../img/progOpen.png") repeat 0 0;
 	background-size: cover;
 }
+
+@media only screen and (max-width: 600px){
+	.namePlaque{
+		width: 85px;
+		height: 45px;
+	}
+
+	.illustrationIcon, .technicalArtIcon, .programmingIcon{
+		width: 150px;
+		height: 150px;
+		margin-top: 50%;
+	}
+
+	.illustration:hover .illustrationIcon, .technicalArt:hover .technicalArtIcon, .programming:hover .programmingIcon{
+		width: 150px;
+		height: 150px;
+		margin-top: 50%;
+	}
+}
