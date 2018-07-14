@@ -130,8 +130,8 @@ h1{
 	}
 
 	.illustrationIcon, .technicalArtIcon, .programmingIcon{
-		width: 150px;
-		height: 150px;
+		width: 100px;
+		height: 100px;
 		margin-top: 50%;
 	}
 
